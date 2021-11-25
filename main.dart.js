@@ -49919,7 +49919,7 @@ break
 case 1:return P.a5(q,r)}})
 return P.a6($async$vs,r)}}
 U.lZ.prototype={
-M(a,b){var s=null,r="images/robinhood-logo.jpeg",q="images/lineman-logo.jpeg",p=t.p
+M(a,b){var s=null,r="assets/images/robinhood-logo.jpeg",q="assets/images/lineman-logo.jpeg",p=t.p
 return M.aaK(E.a8M(s,C.XI),T.age(H.a([M.lT(s,s,s,s,30,s,s,s),C.XF,M.lT(s,s,s,s,20,s,s,s),C.XG,T.VH(H.a([U.Z0(U.Rt(r,150),new U.O_()),U.Z0(U.Rt(q,150),new U.O0())],p),C.cX,C.hT,C.fc),M.lT(s,s,s,s,20,s,s,s),C.XJ,T.VH(H.a([U.Z0(U.Rt(r,150),new U.O1()),U.Z0(U.Rt(q,150),new U.O2())],p),C.cX,C.hT,C.fc)],p),C.fb))}}
 U.O_.prototype={
 $0(){T.oc("https://bit.ly/3iBIpOn")},
