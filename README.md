@@ -1,2 +1,0 @@
-# shineoutme.github.io
-Website
