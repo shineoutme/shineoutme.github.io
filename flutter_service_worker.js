@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "047a1c7b24918aa76e9142bf6f788879",
-"index.html": "335e446184e002debb59a376a2d753ac",
-"/": "335e446184e002debb59a376a2d753ac",
+"index.html": "4a81883a2188f219e727152a5ebd830e",
+"/": "4a81883a2188f219e727152a5ebd830e",
 "main.dart.js": "d433051a2a9371fc64eac76e92180e84",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -13,14 +13,18 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "da5d5ffc1acf42d638d6789896bb7d51",
-"assets/AssetManifest.json": "d3e37b9c67fb900f144255245082dbb4",
+"assets/AssetManifest.json": "4b435a677ce4e0cf66f420d4d46d6999",
 "assets/NOTICES": "fb37b57a46f8c840be0c7a7ae2db302f",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/images/lineman-logo.jpeg": "5b483241b74c59adcbca786733f7f9c8",
 "assets/assets/images/flutter_logo.png": "478970b138ad955405d4efda115125bf",
+"assets/assets/images/2.0x/lineman-logo.jpeg": "5b483241b74c59adcbca786733f7f9c8",
 "assets/assets/images/2.0x/flutter_logo.png": "4efb9624185aff46ca4bf5ab96496736",
+"assets/assets/images/2.0x/robinhood-logo.jpeg": "890c56a0380bcd746885737b7433a3e7",
+"assets/assets/images/3.0x/lineman-logo.jpeg": "5b483241b74c59adcbca786733f7f9c8",
 "assets/assets/images/3.0x/flutter_logo.png": "b8ead818b15b6518ac627b53376b42f2",
+"assets/assets/images/3.0x/robinhood-logo.jpeg": "890c56a0380bcd746885737b7433a3e7",
 "assets/assets/images/robinhood-logo.jpeg": "890c56a0380bcd746885737b7433a3e7"
 };
 
